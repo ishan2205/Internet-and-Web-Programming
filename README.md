@@ -18,5 +18,5 @@ Module4 Assignment:
 
 Module5 Assignment:
 
-- [Solution](https://ishan2205.github.io/Internet-and-Web-Programming/module5_solution)
+- [Solution] https://ishan2205.github.io/Internet-and-Web-Programming/module5_solution
 - [Source code](./module5_solution)
